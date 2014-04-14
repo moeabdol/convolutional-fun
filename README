@@ -1,0 +1,9 @@
+This python code demonstrates the example found in DeepLearning.net tutorials.
+It shows a simple way to apply convolution on images. The code is copied from
+the site as is for my future reference.
+
+To run the code, from the terminal navigate to the project directory and type
+in the following:
+python main.py
+
+Enjoy!
